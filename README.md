@@ -5,6 +5,6 @@ This repository contains analysis code for my master's thesis, submitted in part
 ## Python files
 **variables**: contains constants imported across notebooks
 ## Notebooks
-**eda**: Exploratory data analysis of preliminary and final dataset
-**model_comparison**: Comparison of model architectures
-**drift_analysis**: Data drift and model drift tests and results
+**eda**: Exploratory data analysis of preliminary and final dataset <br>
+**model_comparison**: Comparison of model architectures <br>
+**drift_analysis**: Data drift and model drift tests and results <br>
